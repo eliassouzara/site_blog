@@ -3,7 +3,7 @@
 
 Para a utilização desse projeto se faz necessário algumas tecnologias, dentre elas:
 
-* PHP 7.2^
+* PHP 8.3^
 * MariaDB ou MySQL
 * Composer
 * Git
